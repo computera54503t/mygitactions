@@ -1,4 +1,4 @@
 def initest():
-  print("Ini adalah testing")
+  return "Ini adalah testing"
 
 print(initest())
